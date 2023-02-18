@@ -5,12 +5,12 @@ function header() {
     return (
         <Nav>
             <FooterLeft>
-                <span>Developed with ❤️️ by Aditya Verma</span>
+                <span>Developed with ❤️️ by Samyuktha S</span>
             </FooterLeft>
-            <FooterRight>
+            {/* <FooterRight>
                 <a target="_blank" rel="noreferrer" href="https://github.com/wweverma1/tfs-frontend"><img src="/images/github-icon.png" alt="Github Icon" /></a>
                 <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/aditya-verma-7236a2107/"><img src="/images/linkedin-icon.png" alt="LinkedIn Icon" /></a>
-            </FooterRight>
+            </FooterRight> */}
         </Nav>
     )
 }
